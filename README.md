@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @naman871
-- 👀 I’m interested in ...Automation Testing 
+- 👋 Hi, I’m Naman Gupta
+- 👀 I’m interested in ...Automation Testing , Functional Testing , API Testing , Blackbox & WhiteBox Testing,Manual Testing
 - 🌱 
 <!---
 naman871/naman871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
